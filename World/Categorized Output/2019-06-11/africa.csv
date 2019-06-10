@@ -1,32 +1,35 @@
 Source,Heading,Category,Date,Time,URL,Cluster,cluster_similarity_value
-CNN, Death roll rises to 100 as bodies found in Nile,africa,2019-06-11,00:10,/2019/06/05/africa/sudan-death-toll-intl/index.html,0,0.18
-CNN, Former Nigerian dictator 267m seized from foreign account,africa,2019-06-11,00:10,/2019/06/05/africa/nigeria-abacha-stolen-loot-jersey-intl/index.html,0,0.17
-CNN, Time is running out for Namibias Wild Horses,africa,2019-06-11,00:10,/videos/world/2019/05/29/inside-africa-namibia-wild-horses-environmentalists-vision.cnn,0,0.17
-CNN, Cape Verdes colorful carnival,africa,2019-06-11,00:10,/videos/tv/2019/04/30/inside-africa-vision.cnn,0,0.17
-CNN, What makes the Protea the most sought after flower,africa,2019-06-11,00:10,/videos/world/2019/05/30/marketplace-africa-protea-flowers-south-africa-vision.cnn,0,0.17
-CNN, How Sudan targeted the women driving protests,africa,2019-06-11,00:10,/videos/world/2019/05/17/sudan-women-protester-violence-nima-elbagir-lon-orig-mkd.cnn,1,0.55
-CNN, How South Africa built one of the worlds most advanced telescopes,africa,2019-06-11,00:10,/2019/06/03/business/south-africa-meerkat-telescope/index.html,2,0.43
-CNN, The iced tea harnessing South Africas miracle plant,africa,2019-06-11,00:10,/videos/business/2019/05/31/bos-iced-tea-itm-south-africa-lon-orig.cnn-business,2,0.39
-CNN, South Africa makes history as women make up half of government,africa,2019-06-11,00:10,/2019/05/30/africa/south-africa-gender-balanced-cabinent-intl/index.html,2,0.4
-CNN, Naomi Campbell is putting African fashion centre stage,africa,2019-06-11,00:10,/videos/style/2019/05/20/naomi-campbell-arise-fashion-week-style-orig.cnn,3,1.0
-CNN, Mass civil disobedience campaign shuts down Sudanese capital as death toll rises,africa,2019-06-11,00:10,/2019/06/10/africa/sudan-general-strike-protests-intl-hnk/index.html,4,0.56
-CNN, Botswanas return to elephant hunting wont solve any problems ex President says,africa,2019-06-11,00:10,/2019/06/02/africa/botswana-president-hunting-ban-intl/index.html,5,0.2
-CNN, The African Union seeks a more United States of Africa,africa,2019-06-11,00:10,/2019/05/09/africa/au-passport-free-trade-area-intl/index.html,5,0.21
-CNN, Seven leading African photographers,africa,2019-06-11,00:10,/style/article/african-photographers-nataal-everyday-africa-tokini-peterside/index.html,5,0.21
-CNN, Photos capture rare Elephant Queen,africa,2019-06-11,00:10,/travel/article/rare-elephant-pictures-kenya/index.html,5,0.2
-CNN, African elephant poaching has declined,africa,2019-06-11,00:10,/2019/06/06/world/elephants-poaching-decrease-trnd/index.html,5,0.24
-CNN, Ghana debuts at the Venice Biennale,africa,2019-06-11,00:10,/style/article/ghana-venice-biennale-2019/index.html,6,0.5
-CNN, How Chinas streaming app beat Spotify and Apple in Africa,africa,2019-06-11,00:10,/2019/06/05/africa/boomplay-music-africa-intl/index.html,7,0.5
-CNN, Kenyas best food is a kaleidoscope of flavors,africa,2019-06-11,00:10,/travel/article/kenyan-food-dishes/index.html,8,0.36
-CNN, Why lesbian romance film was banned in Kenya,africa,2019-06-11,00:10,/style/article/wanuri-kahiu-kenya-lgbtq-rafiki-intl/index.html,8,0.39
-CNN, Social media blocked as Liberians protest,africa,2019-06-11,00:10,/2019/06/07/africa/liberia-protests-george-weah/index.html,9,0.33
-CNN, The studio Netflix chose for its first African cartoon series,africa,2019-06-11,00:10,/2019/06/03/africa/triggerfish-animation-studio-africa-intl/index.html,10,0.56
-CNN, Why global tech giants are investing in Africa,africa,2019-06-11,00:10,/2019/05/17/africa/tech-giants-in-africa-intl/index.html,11,0.56
-CNN, The schoolgirls fighting against child marriage in Nigeria,africa,2019-06-11,00:10,/2019/05/25/africa/nigerian-girls-child-marriage-campaign-intl/index.html,12,1.0
-CNN, Several lions might have escaped from a South African park,africa,2019-06-11,00:10,/2019/06/07/world/lions-escape-south-africa-park-trnd/index.html,13,1.0
-CNN, Egypts hidden history continues to enthrall the world,africa,2019-06-11,00:10,/videos/world/2019/05/29/inside-africa-archaeology-egypt-vision.cnn,14,0.27
-CNN, Turning an African superpower into a world champion,africa,2019-06-11,00:10,/2019/05/29/football/nigeria-super-falcons-thomas-dennerby-asisat-oshoala-womens-world-cup-spt-intl/index.html,14,0.25
-CNN, Meet the culinary creatives shaking up African food,africa,2019-06-11,00:10,/travel/article/african-chefs-food/index.html,14,0.28
-CNN, Meet one of the most inspiring women in the world,africa,2019-06-11,00:10,/2019/05/09/africa/tererai-trent-most-inspiring-woman-intl/index.html,14,0.33
-CNN, The man who plays the saxophone without the instrument,africa,2019-06-11,00:10,/2019/05/03/africa/nigerian-man-plays-saxophone-with-mouth-intl/index.html,15,0.64
-CNN, Remembering the Rwanda genocide 25 years on,africa,2019-06-11,00:10,/videos/world/2019/05/30/amanpour-rwanda-genocide-25th-anniversary.cnn,16,0.5
+CNN, The schoolgirls fighting against child marriage in Nigeria,africa,2019-06-11,01:10,https://edition.cnn.com/2019/05/25/africa/nigerian-girls-child-marriage-campaign-intl/index.html,0,0.22
+CNN, Time is running out for Namibias Wild Horses,africa,2019-06-11,01:10,https://edition.cnn.com/videos/world/2019/05/29/inside-africa-namibia-wild-horses-environmentalists-vision.cnn,0,0.2
+CNN, Social media blocked as Liberians protest,africa,2019-06-11,01:10,https://edition.cnn.com/2019/06/07/africa/liberia-protests-george-weah/index.html,0,0.2
+CNN, Former Nigerian dictator 267m seized from foreign account,africa,2019-06-11,01:10,https://edition.cnn.com/2019/06/05/africa/nigeria-abacha-stolen-loot-jersey-intl/index.html,0,0.2
+CNN, The iced tea harnessing South Africas miracle plant,africa,2019-06-11,01:10,https://edition.cnn.com/videos/business/2019/05/31/bos-iced-tea-itm-south-africa-lon-orig.cnn-business,1,0.56
+CNN, Why lesbian romance film was banned in Kenya,africa,2019-06-11,01:10,https://edition.cnn.com/style/article/wanuri-kahiu-kenya-lgbtq-rafiki-intl/index.html,2,0.3
+CNN, Can Kenyas China built railway line revive its economy,africa,2019-06-11,01:10,https://edition.cnn.com/2019/05/20/china/china-kenya-sgr-rail-africa-intl/index.html,2,0.27
+CNN, Kenyas best food is a kaleidoscope of flavors,africa,2019-06-11,01:10,https://edition.cnn.com/travel/article/kenyan-food-dishes/index.html,2,0.3
+CNN, 20 best things to do in Kenya,africa,2019-06-11,01:10,https://edition.cnn.com/travel/article/kenya-things-to-do/index.html,2,0.32
+CNN, Ethiopias garment workers are the least paid in the world,africa,2019-06-11,01:10,https://edition.cnn.com/2019/05/11/africa/ethiopia-garment-workers-lowest-paid-intl/index.html,3,0.33
+CNN, Meet one of the most inspiring women in the world,africa,2019-06-11,01:10,https://edition.cnn.com/2019/05/09/africa/tererai-trent-most-inspiring-woman-intl/index.html,3,0.28
+CNN, Turning an African superpower into a world champion,africa,2019-06-11,01:10,https://edition.cnn.com/2019/05/29/football/nigeria-super-falcons-thomas-dennerby-asisat-oshoala-womens-world-cup-spt-intl/index.html,3,0.37
+CNN, Why the giant of Africa still struggles with extreme poverty,africa,2019-06-11,01:10,https://edition.cnn.com/videos/world/2019/02/14/nigeria-2019-explainer-oil-economy-poverty-lon-orig.cnn,4,0.29
+CNN, How Chinas streaming app beat Spotify and Apple in Africa,africa,2019-06-11,01:10,https://edition.cnn.com/2019/06/05/africa/boomplay-music-africa-intl/index.html,4,0.29
+CNN, Netflix to launch all girl superhero animation series from Africa,africa,2019-06-11,01:10,https://edition.cnn.com/2019/04/20/africa/netflix-first-african-animated-series-intl/index.html,4,0.27
+CNN, Why global tech giants are investing in Africa,africa,2019-06-11,01:10,https://edition.cnn.com/2019/05/17/africa/tech-giants-in-africa-intl/index.html,4,0.32
+CNN, Photos capture rare Elephant Queen,africa,2019-06-11,01:10,https://edition.cnn.com/travel/article/rare-elephant-pictures-kenya/index.html,5,0.38
+CNN, Botswanas return to elephant hunting wont solve any problems ex President says,africa,2019-06-11,01:10,https://edition.cnn.com/2019/06/02/africa/botswana-president-hunting-ban-intl/index.html,5,0.35
+CNN, African country with the most elephants ends hunting ban,africa,2019-06-11,01:10,https://edition.cnn.com/videos/world/2019/05/29/elephant-hunting-botswana-newday-mckenzie-pkg-vpx.cnn,5,0.36
+CNN, Activist Protesters will keep using peaceful tactics,africa,2019-06-11,01:10,https://edition.cnn.com/videos/world/2019/06/10/sudan-civil-disobedience-military-protests-reem-abbas-sot-vpx.cnn,6,0.5
+CNN, Ghanas floating village clings to ancient traditions,africa,2019-06-11,01:10,https://edition.cnn.com/travel/article/nzulezo-ghana-stilt-village-intl/index.html,7,0.5
+CNN, They tried to use rape to silence women protesters in Sudan It didnt work,africa,2019-06-11,01:10,https://edition.cnn.com/2019/05/17/africa/sudan-protests-asequals-intl/index.html,8,0.4
+CNN, How Sudan targeted the women driving protests,africa,2019-06-11,01:10,https://edition.cnn.com/videos/world/2019/05/17/sudan-women-protester-violence-nima-elbagir-lon-orig-mkd.cnn,8,0.38
+CNN, Opposition group calls for civil disobedience in Sudan,africa,2019-06-11,01:10,https://edition.cnn.com/2019/06/09/africa/sudan-civil-disobedience-intl/index.html,8,0.38
+CNN, The studio Netflix chose for its first African cartoon series,africa,2019-06-11,01:10,https://edition.cnn.com/2019/06/03/africa/triggerfish-animation-studio-africa-intl/index.html,9,0.19
+CNN, Meet the culinary creatives shaking up African food,africa,2019-06-11,01:10,https://edition.cnn.com/travel/article/african-chefs-food/index.html,9,0.2
+CNN, Seven leading African photographers,africa,2019-06-11,01:10,https://edition.cnn.com/style/article/african-photographers-nataal-everyday-africa-tokini-peterside/index.html,9,0.22
+CNN, The African Union seeks a more United States of Africa,africa,2019-06-11,01:10,https://edition.cnn.com/2019/05/09/africa/au-passport-free-trade-area-intl/index.html,9,0.2
+CNN, South Africa makes history as women make up half of government,africa,2019-06-11,01:10,https://edition.cnn.com/2019/05/30/africa/south-africa-gender-balanced-cabinent-intl/index.html,10,0.52
+CNN, Cape Verdes colorful carnival,africa,2019-06-11,01:10,https://edition.cnn.com/videos/tv/2019/04/30/inside-africa-vision.cnn,11,0.33
+CNN, Mass civil disobedience campaign shuts down Sudanese capital as death toll rises,africa,2019-06-11,01:10,https://edition.cnn.com/2019/06/10/africa/sudan-general-strike-protests-intl-hnk/index.html,11,0.39
+CNN, The man who risked his life to protect Liberias forests,africa,2019-06-11,01:10,https://edition.cnn.com/2019/04/29/africa/liberian-activist-goldman-prize-intl/index.html,12,0.64
+CNN, Leopard kills 2 year old boy in Kruger National Park,africa,2019-06-11,01:10,https://edition.cnn.com/2019/06/06/africa/leopard-kills-boy-kruger-south-africa-intl/index.html,13,0.36
+CNN, Remembering the Rwanda genocide 25 years on,africa,2019-06-11,01:10,https://edition.cnn.com/videos/world/2019/05/30/amanpour-rwanda-genocide-25th-anniversary.cnn,13,0.33
